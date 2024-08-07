@@ -1,6 +1,5 @@
 {
   "name": "blockchain_voting_app",
-  "homepage": "http://mywebsite.com/relativepath",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
